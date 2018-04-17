@@ -139,7 +139,7 @@ public class formMonogram extends javax.swing.JFrame {
         middle=(middleField.getText());
         last=(lastField.getText());
         
-        firstInitial= (""+first.charAt(0));
+        firstInitial= (""+first.charAt(0));//this sets "firstInitial" to the first character of "first"
         middleInitial= (""+middle.charAt(0));
         lastInitial= (""+last.charAt(0));
                 
